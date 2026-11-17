@@ -1,0 +1,3 @@
+HEMOGLOBIN: 9.5 g/dL (Reference: 12.0 - 15.5 g/dL) LOW
+FASTING BLOOD SUGAR: 126 mg/dL (Reference: 70 - 100 mg/dL) ELEVATED
+TOTAL CHOLESTEROL: 245 mg/dL (Reference: < 200 mg/dL) ELEVATED
